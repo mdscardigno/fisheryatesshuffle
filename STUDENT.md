@@ -1,4 +1,4 @@
-# fisheryatesshuffle
+# FisherYatesShuffle
 
 ## To push to github
 
